@@ -136,6 +136,6 @@ No longo prazo, busco atuar como:
 
 ### “Grandes resultados começam com pequenos commits.”
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU-USUARIO\&color=blueviolet\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=NegoPretoso\&color=blueviolet\&style=for-the-badge)
 
 </div>
