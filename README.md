@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Almeida 👋
 
-Desenvolvedor com experiência no ecossistema Microsoft, atuando principalmente com **Dynamics 365**, **Power Platform**, **Dataverse** e desenvolvimento de soluções personalizadas para ambientes corporativos.
+Desenvolvedor especializado no ecossistema Microsoft, com experiência na criação, customização e integração de soluções utilizando Dynamics 365, Power Platform, Dataverse, JavaScript e C#.
 
 Atualmente, trabalho com automações, integrações, customizações e melhorias em aplicações CRM, sempre buscando transformar processos complexos em soluções simples, funcionais e escaláveis.
 
@@ -102,7 +102,6 @@ No longo prazo, busco atuar como:
 * Tech Lead
 * Arquiteto de Soluções
 * Especialista em Dynamics 365 e Power Platform
-* Líder técnico de projetos de transformação digital
 
 ---
 
