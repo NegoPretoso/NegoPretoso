@@ -106,15 +106,16 @@ No longo prazo, busco atuar como:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Minha atividade no GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU-USUARIO\&theme=tokyonight\&hide_border=true)
+  <a href="https://github.com/NegoPretoso">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NegoPretoso&theme=tokyonight"
+      alt="Resumo do perfil"
+    />
+  </a>
 
 </div>
 
